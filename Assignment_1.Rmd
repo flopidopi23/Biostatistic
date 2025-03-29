@@ -1,0 +1,27 @@
+---
+title: "Assignment 1"
+author: "Florencia Luque"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## 1.  Summarize the main ideas about the False Discovery Rate (FDR). Explain the Benjamini-Hochberg and the q-Value procedures. Show examples of an application with R with a comparison between both methods (at least two pages).
+
+
+### False Discovery Rate (FDR)
+The false discobery rate (FDR) is something 
+### Benjamini-Hochberg and the *q-value* procedure:
+
+### Benjamini-Hochberg
+The Benjamini-Hochberg is a method use for...
+
+### *q-value*
+The *q-value* method is 
+
+## 2. Summarize the main ideas about the ROC curves. Show an example of an application with R (at least two pages).
+
+The ROC curve is use to do something for models
+
